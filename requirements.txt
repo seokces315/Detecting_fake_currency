@@ -1,0 +1,8 @@
+pandas
+seaborn
+matplotlib
+beautifulsoup4
+urlib3
+scipy
+statsmodels
+scikit-learn
